@@ -20,3 +20,4 @@ Loopatron is a tray-based productivity launcher designed to simplify recurring t
 ```bash
 npm install
 npm start
+```
